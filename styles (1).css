@@ -1,0 +1,8 @@
+body {
+    color:rgb(255, 255, 255);
+     background:rgba(15, 15, 70, 0.973);
+}
+header{
+    border-bottom: solid 2px rgb(3, 3, 25);
+padding: 20px;
+}
